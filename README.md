@@ -1,2 +1,2 @@
-# Auto_Hotkey_Presser
-Automatically press an array of hotkeys for a certain amount of times
+# Auto Hotkey Presser
+AutoKey Presser is an automatic keyboard button pressing program, written in Java, which enables you to control which specified keys you want to keep getting pressed repeatedly and also allows you to automate clicks from your mouse. It can record and playback all your key presses automatically. It also stores an unlimited amount of key presses or clicks and is able to setup timing between each key press or click. Finally the software is able to setup how often to repeat the pressed key or the desired click.
